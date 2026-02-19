@@ -1,4 +1,4 @@
-c1-1_Sistemas_Microcontrolados, 
+# c1-1_Sistemas_Microcontrolados 
 * Integrantes:
 - Jesús Ortiz Rodríguez
 - Andrea Orozco Carrillo
